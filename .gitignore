@@ -1,0 +1,9 @@
+# General
+.DS_Store
+__MACOSX/
+._*
+
+# Local files
+local/
+.Trashes
+.TemporaryItems
